@@ -4,10 +4,10 @@ declare(strict_types=1);
 
 namespace AwfulInheritance;
 
-final class TeaWithMilk extends Tea
+class CoffeeBase implements BeverageBase
 {
     public function price():float
     {
-        return parent::price() + 0.10;
+        return 1.2;
     }
 }

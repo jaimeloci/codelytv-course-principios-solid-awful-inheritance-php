@@ -4,10 +4,10 @@ declare(strict_types=1);
 
 namespace AwfulInheritance;
 
-class HotChocolate implements Beverage
+final class MilkSupplement implements BeverageSupplement
 {
     public function price():float
     {
-        return 1.45;
+        return 0.10;
     }
 }
