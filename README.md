@@ -1,4 +1,4 @@
-Note: ported to php from de original in java (https://github.com/Codesai/practice_program/tree/master/katas_java/05-refactoring-awful-inheritance-use-with-beverage-prices-kata).
+Note: ported to php from original java code (https://github.com/Codesai/practice_program/tree/master/katas_java/05-refactoring-awful-inheritance-use-with-beverage-prices-kata).
 
 ## Goal
 This code computes the prices of the beverages served in our coffe house.
